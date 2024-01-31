@@ -6,5 +6,6 @@ Discussion and communication are welcomed.
 
 ## 2024 01 31
 [SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation](SSMG/)
+
 https://arxiv.org/pdf/2308.10156.pdf
 
